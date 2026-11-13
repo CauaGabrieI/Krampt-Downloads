@@ -1,2 +1,2 @@
-ff4402a3b46a8f292bd9cca12904cd07769844d4a87a4f026855e07f7b75584a  Krampt-Calls-0.1.1-linux-x86_64.AppImage
-bc38e25166a90c879d853ab879de9d07c4d64d3c1de9e8f7c8095c3452d1602c  Krampt-Calls-0.1.1-windows-x64-Setup.exe
+89a9cd11fa9ca4662cb49a34ae3c304ecbb43f3d8dcee53c3abed29cec66e708  Krampt-Calls-0.1.2-linux-x86_64.AppImage
+45a9804b3436a8853d9b608eacc25e06fdfea9639d4d858381609a9a5f4bfe54  Krampt-Calls-0.1.2-windows-x64-Setup.exe
