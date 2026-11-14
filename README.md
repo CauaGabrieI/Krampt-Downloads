@@ -4,7 +4,7 @@ Instaladores públicos do Krampt para Windows e Linux.
 
 Baixe a versão mais recente na [release atual](https://github.com/CauaGabrieI/Krampt-Downloads/releases/latest).
 
-Versão atual: **0.1.2**, para Linux x64 (AppImage) e Windows x64 (Setup.exe).
+Versão atual: **0.1.3**, para Linux x64 (AppImage) e Windows x64 (Setup.exe).
 As versões antigas foram removidas; use os arquivos da release atual.
 
 Este repositório distribui somente os instaladores e seus checksums SHA256. Não contém o código-fonte do aplicativo, dados dos usuários ou credenciais.
